@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53cf35e3-47a6-4fbe-b403-21ed77931380" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="53cf35e3-47a6-4fbe-b403-21ed77931380" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
+            <state relative-caret-position="-203">
               <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,7 +86,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="457" />
+    <option name="x" value="-51" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
@@ -678,7 +676,7 @@
       <workItem from="1487168795200" duration="5000" />
       <workItem from="1487940136655" duration="61000" />
       <workItem from="1489667202792" duration="604000" />
-      <workItem from="1489673971969" duration="9036000" />
+      <workItem from="1489673971969" duration="9515000" />
     </task>
     <servers />
   </component>
@@ -715,10 +713,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12005000" />
+    <option name="totallyTimeSpent" value="12484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="457" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="-51" y="23" width="1440" height="812" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -838,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
+        <state relative-caret-position="-203">
           <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
